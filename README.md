@@ -3,21 +3,7 @@
 A hands-on SQL project focused on extracting business insights from structured sales, customer, and product data using Microsoft SQL Server and SSMS.
 
 ## Project Structure
-sql-data-analytics-project/
-├── datasets/
-│ └── csv-files/
-│ ├── gold.fact_sales.xlsx
-│ ├── gold.dim_customers.xlsx
-│ └── gold.dim_products.xlsx
-├── scripts/
-│ ├── SQLQuery-change-over-time.sql
-│ ├── SQLQuery-cumulative-analysis.sql
-│ ├── SQLQuery-performance-analysis.sql
-│ ├── SQLQuery-PART-TO-WHOLE.sql
-│ ├── SQLQuery-data_segmentation.sql
-│ ├── SQLQuery-TASK.sql
-│ └── SQLQuery-FINALREPORT.sql
-├── README.md
+<pre> sql-data-analytics-project/ ├── datasets/ │ └── csv-files/ │ ├── gold.fact_sales.xlsx │ ├── gold.dim_customers.xlsx │ └── gold.dim_products.xlsx ├── scripts/ │ ├── SQLQuery-change-over-time.sql │ ├── SQLQuery-cumulative-analysis.sql │ ├── SQLQuery-performance-analysis.sql │ ├── SQLQuery-PART-TO-WHOLE.sql │ ├── SQLQuery-data_segmentation.sql │ ├── SQLQuery-TASK.sql │ └── SQLQuery-FINALREPORT.sql ├── README.md </pre>
 
 ------------------------------------------------------------------------
 
