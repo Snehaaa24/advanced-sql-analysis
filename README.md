@@ -88,7 +88,7 @@ Counted number of customers by KYC segment using the customer report view.
 
 **Sneha Nair**  
 B.E. AI & Data Science | SIES GST, Nerul  
-[LinkedIn](www.linkedin.com/in/snehasantoshnair)
+[LinkedIn]([www.linkedin.com/in/snehasantoshnair])
 
 ----------------------------------------------------------------------------
 
